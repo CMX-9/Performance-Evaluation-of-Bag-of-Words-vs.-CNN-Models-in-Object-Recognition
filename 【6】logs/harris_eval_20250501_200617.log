@@ -1,0 +1,46 @@
+2025-05-01 20:06:17 [INFO] ===== Harris实验开始 =====
+2025-05-01 20:06:23 [INFO] ===== Harris特征提取 =====
+2025-05-01 20:13:03 [INFO] 
+===== 评估 K=50 =====
+2025-05-01 20:13:16 [INFO] K=50 | 准确率=0.720 | F1=0.720 | 训练时间=0.6s
+2025-05-01 20:13:16 [INFO] 
+===== 评估 K=150 =====
+2025-05-01 20:13:35 [INFO] K=150 | 准确率=0.788 | F1=0.788 | 训练时间=0.8s
+2025-05-01 20:13:35 [INFO] 
+===== 评估 K=300 =====
+2025-05-01 20:14:06 [INFO] K=300 | 准确率=0.830 | F1=0.830 | 训练时间=1.3s
+2025-05-01 20:14:06 [INFO] 
+===== 评估 K=500 =====
+2025-05-01 20:14:51 [INFO] K=500 | 准确率=0.854 | F1=0.854 | 训练时间=2.1s
+2025-05-01 20:14:51 [INFO] 
+===== 评估 K=800 =====
+2025-05-01 20:15:57 [INFO] K=800 | 准确率=0.854 | F1=0.854 | 训练时间=3.3s
+2025-05-01 20:15:57 [INFO] 
+===== 评估 K=1000 =====
+2025-05-01 20:17:17 [INFO] K=1000 | 准确率=0.882 | F1=0.882 | 训练时间=4.1s
+2025-05-01 20:17:18 [ERROR] 主流程错误: 'seaborn' is not a valid package style, path of style file, URL of style file, or library style name (library styles are listed in `style.available`)
+Traceback (most recent call last):
+  File "D:\anaconda\envs\AMR_assignment_4\Lib\site-packages\matplotlib\style\core.py", line 129, in use
+    style = _rc_params_in_file(style)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\anaconda\envs\AMR_assignment_4\Lib\site-packages\matplotlib\__init__.py", line 903, in _rc_params_in_file
+    with _open_file_or_url(fname) as fd:
+  File "D:\anaconda\envs\AMR_assignment_4\Lib\contextlib.py", line 137, in __enter__
+    return next(self.gen)
+           ^^^^^^^^^^^^^^
+  File "D:\anaconda\envs\AMR_assignment_4\Lib\site-packages\matplotlib\__init__.py", line 880, in _open_file_or_url
+    with open(fname, encoding='utf-8') as f:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'seaborn'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\cognitive-cwk\test2.py", line 351, in <module>
+    # 生成可视化
+  File "D:\cognitive-cwk\test2.py", line 290, in plot_harris_results
+    # 样式设置
+  File "D:\anaconda\envs\AMR_assignment_4\Lib\site-packages\matplotlib\style\core.py", line 131, in use
+    raise OSError(
+OSError: 'seaborn' is not a valid package style, path of style file, URL of style file, or library style name (library styles are listed in `style.available`)
+2025-05-01 20:17:18 [INFO] 总耗时: 660.8秒

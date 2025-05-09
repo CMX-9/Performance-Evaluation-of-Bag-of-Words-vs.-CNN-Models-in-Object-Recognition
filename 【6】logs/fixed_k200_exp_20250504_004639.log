@@ -1,0 +1,6 @@
+📄 Logging started: logs/fixed_k200_exp_20250504_004639.log
+
+🚀 Starting experiment: SampleSize=500, FixedK=200
+❌ Experiment terminated: [WinError 3] 系统找不到指定的路径。: 'path/to/iCubWorld/train\\class1'
+
+📝 All outputs saved to: logs/fixed_k200_exp_20250504_004639.log

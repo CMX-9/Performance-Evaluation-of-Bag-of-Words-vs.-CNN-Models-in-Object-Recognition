@@ -1,0 +1,16 @@
+2025-05-06 23:48:24 [INFO] ===== Analysis Started =====
+2025-05-06 23:48:30 [INFO] ===== Feature Extraction Started =====
+2025-05-06 23:57:46 [INFO] 
+===== Evaluating K=500 =====
+2025-05-06 23:58:49 [INFO] K=500 | Feature: 555.6s | KMeans: 136.5s (CPU) | SVM: 1.6s (CPU) | RAM: 1621.2MB | Total: 63.1s
+2025-05-06 23:58:50 [ERROR] Main process failed: The number of derivatives at boundaries does not match: expected 3, got 0+0
+Traceback (most recent call last):
+  File "D:\cognitive-cwk\test2.py", line 377, in <module>
+    plot_results(results)
+  File "D:\cognitive-cwk\test2.py", line 292, in plot_results
+    spl = make_interp_spline(df['K'], df['Total_Time'], k=3)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\anaconda\envs\AMR_assignment_4\Lib\site-packages\scipy\interpolate\_bsplines.py", line 1596, in make_interp_spline
+    raise ValueError("The number of derivatives at boundaries does not "
+ValueError: The number of derivatives at boundaries does not match: expected 3, got 0+0
+2025-05-06 23:58:50 [INFO] Total execution time: 626.7 seconds

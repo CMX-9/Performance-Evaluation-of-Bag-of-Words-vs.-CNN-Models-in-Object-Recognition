@@ -1,0 +1,49 @@
+📄 Logging started: logs/fixed_k150_exp_20250503_230129.log
+
+🚀 Starting experiment: SampleSize=500, FixedK=150
+
+🔍 Evaluating R = 0.020...
+✅ R=0.020 | Accuracy=0.7740 | AvgFeatures=49.0
+
+🔍 Evaluating R = 0.030...
+✅ R=0.030 | Accuracy=0.7780 | AvgFeatures=41.4
+
+🔍 Evaluating R = 0.040...
+✅ R=0.040 | Accuracy=0.7840 | AvgFeatures=36.2
+
+🔍 Evaluating R = 0.050...
+✅ R=0.050 | Accuracy=0.7840 | AvgFeatures=32.0
+
+🔍 Evaluating R = 0.060...
+✅ R=0.060 | Accuracy=0.7980 | AvgFeatures=29.1
+
+🔍 Evaluating R = 0.080...
+✅ R=0.080 | Accuracy=0.7700 | AvgFeatures=24.4
+
+🔍 Evaluating R = 0.100...
+✅ R=0.100 | Accuracy=0.7620 | AvgFeatures=21.1
+
+🚀 Starting experiment: SampleSize=750, FixedK=150
+
+🔍 Evaluating R = 0.020...
+✅ R=0.020 | Accuracy=0.7800 | AvgFeatures=48.2
+
+🔍 Evaluating R = 0.030...
+✅ R=0.030 | Accuracy=0.7700 | AvgFeatures=40.5
+
+🔍 Evaluating R = 0.040...
+✅ R=0.040 | Accuracy=0.7660 | AvgFeatures=35.4
+
+🔍 Evaluating R = 0.050...
+✅ R=0.050 | Accuracy=0.7700 | AvgFeatures=31.5
+
+🔍 Evaluating R = 0.060...
+✅ R=0.060 | Accuracy=0.8000 | AvgFeatures=28.6
+
+🔍 Evaluating R = 0.080...
+✅ R=0.080 | Accuracy=0.7640 | AvgFeatures=24.0
+
+🔍 Evaluating R = 0.100...
+✅ R=0.100 | Accuracy=0.7300 | AvgFeatures=20.7
+
+📝 All outputs saved to: logs/fixed_k150_exp_20250503_230129.log

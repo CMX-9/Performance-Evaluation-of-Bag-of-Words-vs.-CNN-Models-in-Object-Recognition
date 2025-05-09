@@ -1,0 +1,28 @@
+2025-05-04 18:05:35 [INFO] ===== Analysis Started =====
+2025-05-04 18:05:41 [INFO] ===== Feature Extraction Started =====
+2025-05-04 18:14:37 [INFO] 
+===== Evaluating K=50 =====
+2025-05-04 18:14:51 [INFO] K=50 | Feature: 536.3s | KMeans: 29.8s (CPU) | SVM: 0.6s (CPU) | RAM: 1613.3MB | Total: 13.9s
+2025-05-04 18:14:51 [INFO] 
+===== Evaluating K=100 =====
+2025-05-04 18:15:09 [INFO] K=100 | Feature: 536.3s | KMeans: 36.7s (CPU) | SVM: 0.6s (CPU) | RAM: 1616.6MB | Total: 17.6s
+2025-05-04 18:15:09 [INFO] 
+===== Evaluating K=200 =====
+2025-05-04 18:15:36 [INFO] K=200 | Feature: 536.3s | KMeans: 59.8s (CPU) | SVM: 0.8s (CPU) | RAM: 1620.8MB | Total: 26.8s
+2025-05-04 18:15:36 [INFO] 
+===== Evaluating K=300 =====
+2025-05-04 18:16:11 [INFO] K=300 | Feature: 536.3s | KMeans: 81.1s (CPU) | SVM: 1.0s (CPU) | RAM: 1625.3MB | Total: 35.3s
+2025-05-04 18:16:11 [INFO] 
+===== Evaluating K=500 =====
+2025-05-04 18:17:05 [INFO] K=500 | Feature: 536.3s | KMeans: 122.9s (CPU) | SVM: 1.4s (CPU) | RAM: 1632.8MB | Total: 54.0s
+2025-05-04 18:17:05 [INFO] 
+===== Evaluating K=800 =====
+2025-05-04 18:18:25 [INFO] K=800 | Feature: 536.3s | KMeans: 204.4s (CPU) | SVM: 2.1s (CPU) | RAM: 1643.7MB | Total: 79.9s
+2025-05-04 18:18:25 [INFO] 
+===== Evaluating K=1000 =====
+2025-05-04 18:19:54 [INFO] K=1000 | Feature: 536.3s | KMeans: 214.2s (CPU) | SVM: 2.6s (CPU) | RAM: 1658.0MB | Total: 88.7s
+2025-05-04 18:19:59 [INFO] 
+===== Optimal Results =====
+2025-05-04 18:19:59 [INFO] Optimal K-value: 1000
+2025-05-04 18:19:59 [INFO] Maximum Test Accuracy: 0.878
+2025-05-04 18:19:59 [INFO] Total execution time: 864.0 seconds

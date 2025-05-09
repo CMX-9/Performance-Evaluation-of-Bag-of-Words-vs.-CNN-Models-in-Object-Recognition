@@ -1,0 +1,9 @@
+2025-05-04 17:17:07,715 [INFO] 
+===== Processing K=100 =====
+2025-05-04 17:17:12,054 [INFO] K=100 | Test Acc: 0.767 | Time: 4.3s | Memory: 495.2MB
+2025-05-04 17:17:12,055 [INFO] 
+===== Processing K=200 =====
+2025-05-04 17:17:17,436 [INFO] K=200 | Test Acc: 0.750 | Time: 5.4s | Memory: 499.0MB
+2025-05-04 17:17:17,436 [INFO] 
+===== Processing K=300 =====
+2025-05-04 17:17:25,075 [INFO] K=300 | Test Acc: 0.683 | Time: 7.6s | Memory: 499.8MB

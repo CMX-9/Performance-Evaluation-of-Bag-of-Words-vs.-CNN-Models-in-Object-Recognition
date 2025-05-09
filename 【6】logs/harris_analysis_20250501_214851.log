@@ -1,0 +1,41 @@
+2025-05-01 21:48:51 [INFO] ===== Analysis Started =====
+2025-05-01 21:48:57 [INFO] ===== Feature Extraction Started =====
+2025-05-01 22:13:51 [INFO] 
+===== Evaluating K=50 =====
+2025-05-01 22:14:10 [INFO] K=50 | Train Acc: 0.862 | Test Acc: 0.768 | Train Time: 0.6s
+2025-05-01 22:14:10 [INFO] 
+===== Evaluating K=150 =====
+2025-05-01 22:14:34 [INFO] K=150 | Train Acc: 0.917 | Test Acc: 0.820 | Train Time: 0.8s
+2025-05-01 22:14:34 [INFO] 
+===== Evaluating K=300 =====
+2025-05-01 22:15:14 [INFO] K=300 | Train Acc: 0.948 | Test Acc: 0.848 | Train Time: 1.3s
+2025-05-01 22:15:14 [INFO] 
+===== Evaluating K=500 =====
+2025-05-01 22:16:14 [INFO] K=500 | Train Acc: 0.963 | Test Acc: 0.876 | Train Time: 2.0s
+2025-05-01 22:16:14 [INFO] 
+===== Evaluating K=800 =====
+2025-05-01 22:17:42 [INFO] K=800 | Train Acc: 0.973 | Test Acc: 0.862 | Train Time: 3.2s
+2025-05-01 22:17:42 [INFO] 
+===== Evaluating K=1000 =====
+2025-05-01 22:19:19 [INFO] K=1000 | Train Acc: 0.981 | Test Acc: 0.856 | Train Time: 4.1s
+2025-05-01 22:19:19 [INFO] 
+===== Evaluating K=1300 =====
+2025-05-01 22:21:20 [INFO] K=1300 | Train Acc: 0.986 | Test Acc: 0.900 | Train Time: 6.3s
+2025-05-01 22:21:21 [INFO] 训练时间数据:
+      K  Training_Time
+0    50       0.638184
+1   150       0.752343
+2   300       1.261777
+3   500       1.975945
+4   800       3.168187
+5  1000       4.135700
+6  1300       6.272898
+2025-05-01 22:21:22 [ERROR] Main process failed: name 'max_test_idx' is not defined
+Traceback (most recent call last):
+  File "D:\cognitive-cwk\test2.py", line 343, in <module>
+    plot_results(results)
+  File "D:\cognitive-cwk\test2.py", line 311, in plot_results
+    'best_performance': df.loc[max_test_idx, 'K'],
+                               ^^^^^^^^^^^^
+NameError: name 'max_test_idx' is not defined
+2025-05-01 22:21:22 [INFO] Total execution time: 1951.4 seconds

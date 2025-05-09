@@ -1,0 +1,9 @@
+2025-05-01 18:14:55 [INFO] === Experiment Start ===
+2025-05-01 18:15:01 [INFO] Processing R=0.01
+2025-05-01 18:16:01 [INFO] R=0.01 | Acc=0.800 | Features=167.6
+2025-05-01 18:16:01 [INFO] Processing R=0.02
+2025-05-01 18:17:13 [INFO] R=0.02 | Acc=0.800 | Features=167.6
+2025-05-01 18:17:13 [INFO] Processing R=0.03
+2025-05-01 18:18:20 [INFO] R=0.03 | Acc=0.800 | Features=167.6
+2025-05-01 18:18:20 [INFO] Optimal R: 0.010
+2025-05-01 18:18:20 [INFO] Max Accuracy: 0.800

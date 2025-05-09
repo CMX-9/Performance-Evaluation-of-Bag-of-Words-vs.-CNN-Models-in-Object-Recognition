@@ -1,0 +1,12 @@
+2025-05-01 18:38:11 [INFO] === Experiment Start ===
+2025-05-01 18:38:16 [INFO] Processing R=0.01
+2025-05-01 18:38:41 [INFO] R=0.01 | Avg Features=149.1 | K=74
+2025-05-01 18:38:58 [INFO] Processing R=0.02
+2025-05-01 18:39:41 [INFO] R=0.02 | Avg Features=149.1 | K=74
+2025-05-01 18:39:58 [INFO] Processing R=0.03
+2025-05-01 18:40:37 [INFO] R=0.03 | Avg Features=149.1 | K=74
+2025-05-01 18:40:50 [INFO] Processing R=0.04
+2025-05-01 18:41:25 [INFO] R=0.04 | Avg Features=149.1 | K=74
+2025-05-01 18:41:39 [INFO] Processing R=0.05
+2025-05-01 18:42:15 [INFO] R=0.05 | Avg Features=149.1 | K=74
+2025-05-01 18:42:31 [ERROR] Main Error: nan

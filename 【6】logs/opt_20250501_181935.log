@@ -1,0 +1,6 @@
+2025-05-01 18:19:35 [INFO] === Experiment Start ===
+2025-05-01 18:19:41 [INFO] Processing R=0.01
+2025-05-01 18:20:34 [INFO] R=0.01 | Acc=0.780 | Features=167.6
+2025-05-01 18:20:34 [INFO] Processing R=0.02
+2025-05-01 18:21:43 [INFO] R=0.02 | Acc=0.780 | Features=167.6
+2025-05-01 18:21:43 [INFO] Processing R=0.03

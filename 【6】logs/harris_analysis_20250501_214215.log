@@ -1,0 +1,22 @@
+2025-05-01 21:42:15 [INFO] ===== Analysis Started =====
+2025-05-01 21:42:21 [INFO] ===== Feature Extraction Started =====
+2025-05-01 21:44:00 [INFO] 
+===== Evaluating K=50 =====
+2025-05-01 21:44:04 [INFO] K=50 | Train Acc: 0.892 | Test Acc: 0.730 | Train Time: 0.0s
+2025-05-01 21:44:04 [INFO] 
+===== Evaluating K=150 =====
+2025-05-01 21:44:12 [INFO] K=150 | Train Acc: 0.970 | Test Acc: 0.810 | Train Time: 0.1s
+2025-05-01 21:44:12 [INFO] 
+===== Evaluating K=300 =====
+2025-05-01 21:44:25 [INFO] K=300 | Train Acc: 0.974 | Test Acc: 0.800 | Train Time: 0.1s
+2025-05-01 21:44:25 [INFO] 
+===== Evaluating K=500 =====
+2025-05-01 21:44:45 [INFO] K=500 | Train Acc: 0.988 | Test Acc: 0.810 | Train Time: 0.1s
+2025-05-01 21:44:45 [INFO] 
+===== Evaluating K=800 =====
+2025-05-01 21:45:16 [INFO] K=800 | Train Acc: 0.992 | Test Acc: 0.810 | Train Time: 0.2s
+2025-05-01 21:45:20 [INFO] 
+===== Optimal Results =====
+2025-05-01 21:45:20 [INFO] Optimal K-value: 150
+2025-05-01 21:45:20 [INFO] Maximum Test Accuracy: 0.810
+2025-05-01 21:45:20 [INFO] Total execution time: 185.0 seconds

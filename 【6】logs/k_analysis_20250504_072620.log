@@ -1,0 +1,12 @@
+2025-05-04 07:26:41,663 [INFO] 
+===== Processing K=100 =====
+2025-05-04 07:26:50,773 [INFO] K=100 | Features: 15.3s | K-Means: 4.4s | BOW: 3.9s | SVM: 0.8s | Total: 9.1s
+2025-05-04 07:26:50,773 [INFO] 
+===== Processing K=200 =====
+2025-05-04 07:27:01,616 [INFO] K=200 | Features: 15.3s | K-Means: 6.6s | BOW: 4.2s | SVM: 0.0s | Total: 10.8s
+2025-05-04 07:27:01,616 [INFO] 
+===== Processing K=300 =====
+2025-05-04 07:27:15,549 [INFO] K=300 | Features: 15.3s | K-Means: 9.5s | BOW: 4.4s | SVM: 0.0s | Total: 13.9s
+2025-05-04 07:27:15,551 [INFO] 
+===== Processing K=500 =====
+2025-05-04 07:27:35,422 [INFO] K=500 | Features: 15.3s | K-Means: 15.0s | BOW: 4.8s | SVM: 0.0s | Total: 19.9s

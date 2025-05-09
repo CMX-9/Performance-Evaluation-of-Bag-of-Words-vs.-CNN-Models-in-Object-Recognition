@@ -1,0 +1,29 @@
+2025-05-01 22:38:06 [INFO] ===== Analysis Started =====
+2025-05-01 22:38:12 [INFO] ===== Feature Extraction Started =====
+2025-05-01 22:39:44 [INFO] 
+===== Evaluating K=50 =====
+2025-05-01 22:39:48 [INFO] K=50 | Feature: 91.5s | KMeans: 3.8s | SVM: 0.0s | Total: 4.7s
+2025-05-01 22:39:48 [INFO] 
+===== Evaluating K=150 =====
+2025-05-01 22:39:55 [INFO] K=150 | Feature: 91.5s | KMeans: 5.8s | SVM: 0.0s | Total: 7.1s
+2025-05-01 22:39:55 [INFO] 
+===== Evaluating K=300 =====
+2025-05-01 22:40:08 [INFO] K=300 | Feature: 91.5s | KMeans: 10.7s | SVM: 0.1s | Total: 12.7s
+2025-05-01 22:40:08 [INFO] 
+===== Evaluating K=500 =====
+2025-05-01 22:40:29 [INFO] K=500 | Feature: 91.5s | KMeans: 17.5s | SVM: 0.1s | Total: 20.5s
+2025-05-01 22:40:29 [INFO] 
+===== Evaluating K=800 =====
+2025-05-01 22:40:59 [INFO] K=800 | Feature: 91.5s | KMeans: 25.9s | SVM: 0.2s | Total: 30.4s
+2025-05-01 22:40:59 [INFO] 
+===== Evaluating K=1000 =====
+2025-05-01 22:41:38 [INFO] K=1000 | Feature: 91.5s | KMeans: 33.2s | SVM: 0.3s | Total: 39.0s
+2025-05-01 22:41:38 [INFO] 
+===== Evaluating K=1300 =====
+2025-05-01 22:42:27 [INFO] K=1300 | Feature: 91.5s | KMeans: 41.5s | SVM: 0.3s | Total: 48.5s
+2025-05-01 22:42:32 [INFO] 
+===== Optimal Results =====
+2025-05-01 22:42:32 [INFO] Optimal K-value: 150
+2025-05-01 22:42:32 [INFO] Maximum Test Accuracy: 0.812
+2025-05-01 22:42:32 [WARNING] Overfitting detected at K=1300 (Accuracy drop: 0.037)
+2025-05-01 22:42:32 [INFO] Total execution time: 265.1 seconds

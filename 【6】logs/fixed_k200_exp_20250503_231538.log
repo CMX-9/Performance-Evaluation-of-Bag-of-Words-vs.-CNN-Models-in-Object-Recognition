@@ -1,0 +1,95 @@
+📄 Logging started: logs/fixed_k200_exp_20250503_231538.log
+
+🚀 Starting experiment: SampleSize=500, FixedK=200
+
+🔍 Evaluating R = 0.020...
+✅ R=0.020 | Accuracy=0.8000 | AvgFeatures=49.0
+
+🔍 Evaluating R = 0.030...
+✅ R=0.030 | Accuracy=0.8020 | AvgFeatures=41.4
+
+🔍 Evaluating R = 0.040...
+✅ R=0.040 | Accuracy=0.7820 | AvgFeatures=36.2
+
+🔍 Evaluating R = 0.050...
+✅ R=0.050 | Accuracy=0.7740 | AvgFeatures=32.0
+
+🔍 Evaluating R = 0.060...
+✅ R=0.060 | Accuracy=0.7240 | AvgFeatures=29.1
+
+🔍 Evaluating R = 0.080...
+✅ R=0.080 | Accuracy=0.7640 | AvgFeatures=24.4
+
+🔍 Evaluating R = 0.100...
+✅ R=0.100 | Accuracy=0.7280 | AvgFeatures=21.1
+
+🚀 Starting experiment: SampleSize=1000, FixedK=200
+
+🔍 Evaluating R = 0.020...
+✅ R=0.020 | Accuracy=0.8360 | AvgFeatures=47.8
+
+🔍 Evaluating R = 0.030...
+✅ R=0.030 | Accuracy=0.8100 | AvgFeatures=40.2
+
+🔍 Evaluating R = 0.040...
+✅ R=0.040 | Accuracy=0.7920 | AvgFeatures=35.1
+
+🔍 Evaluating R = 0.050...
+✅ R=0.050 | Accuracy=0.7780 | AvgFeatures=31.3
+
+🔍 Evaluating R = 0.060...
+✅ R=0.060 | Accuracy=0.7920 | AvgFeatures=28.4
+
+🔍 Evaluating R = 0.080...
+✅ R=0.080 | Accuracy=0.8020 | AvgFeatures=23.9
+
+🔍 Evaluating R = 0.100...
+✅ R=0.100 | Accuracy=0.7900 | AvgFeatures=20.6
+
+🚀 Starting experiment: SampleSize=1500, FixedK=200
+
+🔍 Evaluating R = 0.020...
+✅ R=0.020 | Accuracy=0.8260 | AvgFeatures=48.5
+
+🔍 Evaluating R = 0.030...
+✅ R=0.030 | Accuracy=0.8140 | AvgFeatures=40.8
+
+🔍 Evaluating R = 0.040...
+✅ R=0.040 | Accuracy=0.7940 | AvgFeatures=35.7
+
+🔍 Evaluating R = 0.050...
+✅ R=0.050 | Accuracy=0.7900 | AvgFeatures=31.7
+
+🔍 Evaluating R = 0.060...
+✅ R=0.060 | Accuracy=0.8060 | AvgFeatures=28.8
+
+🔍 Evaluating R = 0.080...
+✅ R=0.080 | Accuracy=0.8000 | AvgFeatures=24.2
+
+🔍 Evaluating R = 0.100...
+✅ R=0.100 | Accuracy=0.7880 | AvgFeatures=20.9
+
+🚀 Starting experiment: SampleSize=2000, FixedK=200
+
+🔍 Evaluating R = 0.020...
+✅ R=0.020 | Accuracy=0.8440 | AvgFeatures=48.2
+
+🔍 Evaluating R = 0.030...
+✅ R=0.030 | Accuracy=0.8180 | AvgFeatures=40.6
+
+🔍 Evaluating R = 0.040...
+✅ R=0.040 | Accuracy=0.8240 | AvgFeatures=35.4
+
+🔍 Evaluating R = 0.050...
+✅ R=0.050 | Accuracy=0.8280 | AvgFeatures=31.5
+
+🔍 Evaluating R = 0.060...
+✅ R=0.060 | Accuracy=0.8160 | AvgFeatures=28.6
+
+🔍 Evaluating R = 0.080...
+✅ R=0.080 | Accuracy=0.7880 | AvgFeatures=24.0
+
+🔍 Evaluating R = 0.100...
+✅ R=0.100 | Accuracy=0.8160 | AvgFeatures=20.7
+
+📝 All outputs saved to: logs/fixed_k200_exp_20250503_231538.log

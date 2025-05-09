@@ -1,0 +1,59 @@
+2025-05-01 08:08:26,007 [INFO] Starting experiment...
+2025-05-01 08:08:33,657 [INFO] Starting feature extraction...
+2025-05-01 08:09:50,983 [INFO] Feature extraction completed. Valid: 2500/2500
+2025-05-01 08:09:50,984 [INFO] Starting feature extraction...
+2025-05-01 08:10:06,497 [INFO] Feature extraction completed. Valid: 500/500
+2025-05-01 08:10:06,498 [INFO] Building visual vocabulary...
+2025-05-01 08:10:13,413 [INFO] Generating BoW features...
+2025-05-01 08:10:15,994 [INFO] Generating BoW features...
+2025-05-01 08:10:18,636 [INFO] Building visual vocabulary...
+2025-05-01 08:10:30,853 [INFO] Generating BoW features...
+2025-05-01 08:10:33,824 [INFO] Generating BoW features...
+2025-05-01 08:10:36,436 [INFO] Building visual vocabulary...
+2025-05-01 08:11:11,449 [INFO] Generating BoW features...
+2025-05-01 08:11:15,924 [INFO] Generating BoW features...
+2025-05-01 08:11:19,965 [INFO] Building visual vocabulary...
+2025-05-01 08:12:17,602 [INFO] Generating BoW features...
+2025-05-01 08:12:24,143 [INFO] Generating BoW features...
+2025-05-01 08:12:30,774 [INFO] Building visual vocabulary...
+2025-05-01 08:14:28,024 [INFO] Generating BoW features...
+2025-05-01 08:14:36,703 [INFO] Generating BoW features...
+2025-05-01 08:14:51,576 [CRITICAL] Runtime error!
+Traceback (most recent call last):
+  File "D:\cognitive-cwk\test1.py", line 217, in run_experiment
+    visualize_results(results)
+  File "D:\cognitive-cwk\test1.py", line 233, in visualize_results
+    plt.plot(x, y, 'bo-')
+  File "D:\anaconda\envs\AMR_assignment_4\Lib\site-packages\matplotlib\pyplot.py", line 3829, in plot
+    return gca().plot(
+           ^^^^^^^^^^^
+  File "D:\anaconda\envs\AMR_assignment_4\Lib\site-packages\matplotlib\axes\_axes.py", line 1777, in plot
+    lines = [*self._get_lines(self, *args, data=data, **kwargs)]
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\anaconda\envs\AMR_assignment_4\Lib\site-packages\matplotlib\axes\_base.py", line 297, in __call__
+    yield from self._plot_args(
+               ^^^^^^^^^^^^^^^^
+  File "D:\anaconda\envs\AMR_assignment_4\Lib\site-packages\matplotlib\axes\_base.py", line 494, in _plot_args
+    raise ValueError(f"x and y must have same first dimension, but "
+ValueError: x and y must have same first dimension, but have shapes (0,) and (5,)
+2025-05-01 08:14:51,622 [ERROR] Experiment failed!
+Traceback (most recent call last):
+  File "D:\cognitive-cwk\test1.py", line 249, in <module>
+    results = run_experiment()
+              ^^^^^^^^^^^^^^^^
+  File "D:\cognitive-cwk\test1.py", line 217, in run_experiment
+    visualize_results(results)
+  File "D:\cognitive-cwk\test1.py", line 233, in visualize_results
+    plt.plot(x, y, 'bo-')
+  File "D:\anaconda\envs\AMR_assignment_4\Lib\site-packages\matplotlib\pyplot.py", line 3829, in plot
+    return gca().plot(
+           ^^^^^^^^^^^
+  File "D:\anaconda\envs\AMR_assignment_4\Lib\site-packages\matplotlib\axes\_axes.py", line 1777, in plot
+    lines = [*self._get_lines(self, *args, data=data, **kwargs)]
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\anaconda\envs\AMR_assignment_4\Lib\site-packages\matplotlib\axes\_base.py", line 297, in __call__
+    yield from self._plot_args(
+               ^^^^^^^^^^^^^^^^
+  File "D:\anaconda\envs\AMR_assignment_4\Lib\site-packages\matplotlib\axes\_base.py", line 494, in _plot_args
+    raise ValueError(f"x and y must have same first dimension, but "
+ValueError: x and y must have same first dimension, but have shapes (0,) and (5,)
