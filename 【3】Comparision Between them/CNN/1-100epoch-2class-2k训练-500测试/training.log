@@ -1,0 +1,5 @@
+2025-05-08 12:37:09,846 [INFO] GPU: NVIDIA GeForce RTX 4070 Laptop GPU
+2025-05-08 12:37:09,846 [INFO] 
+=== Training with 2-class Dataset ===
+2025-05-08 17:54:29,182 [INFO] Early stopping triggered at epoch 95
+2025-05-08 17:55:37,518 [INFO] Final Test Accuracy: 92.20%

@@ -1,0 +1,77 @@
+2025-05-07 06:17:26,746 [INFO] === Model Initialized ===
+2025-05-07 06:17:26,746 [INFO] Model Parameters: 24.20M
+2025-05-07 06:17:26,746 [INFO] Input shape: [B, 1, 32, 32]
+2025-05-07 06:17:26,746 [INFO] Number of classes: 2
+2025-05-07 06:17:26,746 [INFO] 
+=== Training Started ===
+2025-05-07 06:17:45,744 [INFO] Epoch 1/100 | Train Loss: 0.9569 | Train Acc: 57.65% | Test Acc: 50.00% | Top-3 Acc: 0.00% | LR: 0.001000
+2025-05-07 06:18:02,426 [INFO] Epoch 2/100 | Train Loss: 0.4861 | Train Acc: 78.00% | Test Acc: 50.00% | Top-3 Acc: 0.00% | LR: 0.001000
+2025-05-07 06:18:19,372 [INFO] Epoch 3/100 | Train Loss: 0.4141 | Train Acc: 82.40% | Test Acc: 67.40% | Top-3 Acc: 0.00% | LR: 0.000999
+2025-05-07 06:18:36,379 [INFO] Epoch 4/100 | Train Loss: 0.3400 | Train Acc: 85.40% | Test Acc: 84.80% | Top-3 Acc: 0.00% | LR: 0.000998
+2025-05-07 06:18:53,391 [INFO] Epoch 5/100 | Train Loss: 0.3003 | Train Acc: 87.40% | Test Acc: 88.40% | Top-3 Acc: 0.00% | LR: 0.000996
+2025-05-07 06:19:10,101 [INFO] Epoch 6/100 | Train Loss: 0.2468 | Train Acc: 89.30% | Test Acc: 81.60% | Top-3 Acc: 0.00% | LR: 0.000994
+2025-05-07 06:19:26,740 [INFO] Epoch 7/100 | Train Loss: 0.2261 | Train Acc: 89.85% | Test Acc: 87.80% | Top-3 Acc: 0.00% | LR: 0.000991
+2025-05-07 06:19:43,648 [INFO] Epoch 8/100 | Train Loss: 0.2063 | Train Acc: 91.80% | Test Acc: 90.40% | Top-3 Acc: 0.00% | LR: 0.000988
+2025-05-07 06:20:00,268 [INFO] Epoch 9/100 | Train Loss: 0.1966 | Train Acc: 91.90% | Test Acc: 81.00% | Top-3 Acc: 0.00% | LR: 0.000984
+2025-05-07 06:20:17,331 [INFO] Epoch 10/100 | Train Loss: 0.1799 | Train Acc: 93.25% | Test Acc: 91.40% | Top-3 Acc: 0.00% | LR: 0.000980
+2025-05-07 06:20:34,518 [INFO] Epoch 11/100 | Train Loss: 0.1408 | Train Acc: 94.45% | Test Acc: 92.00% | Top-3 Acc: 0.00% | LR: 0.000976
+2025-05-07 06:20:51,227 [INFO] Epoch 12/100 | Train Loss: 0.1381 | Train Acc: 94.60% | Test Acc: 92.00% | Top-3 Acc: 0.00% | LR: 0.000970
+2025-05-07 06:21:07,916 [INFO] Epoch 13/100 | Train Loss: 0.1285 | Train Acc: 95.30% | Test Acc: 91.20% | Top-3 Acc: 0.00% | LR: 0.000965
+2025-05-07 06:21:24,549 [INFO] Epoch 14/100 | Train Loss: 0.1213 | Train Acc: 95.15% | Test Acc: 89.40% | Top-3 Acc: 0.00% | LR: 0.000959
+2025-05-07 06:21:41,244 [INFO] Epoch 15/100 | Train Loss: 0.1262 | Train Acc: 95.40% | Test Acc: 84.80% | Top-3 Acc: 0.00% | LR: 0.000952
+2025-05-07 06:21:57,905 [INFO] Epoch 16/100 | Train Loss: 0.1057 | Train Acc: 95.80% | Test Acc: 91.80% | Top-3 Acc: 0.00% | LR: 0.000946
+2025-05-07 06:22:14,642 [INFO] Epoch 17/100 | Train Loss: 0.0740 | Train Acc: 96.75% | Test Acc: 90.60% | Top-3 Acc: 0.00% | LR: 0.000938
+2025-05-07 06:22:31,377 [INFO] Epoch 18/100 | Train Loss: 0.0862 | Train Acc: 96.80% | Test Acc: 89.00% | Top-3 Acc: 0.00% | LR: 0.000930
+2025-05-07 06:22:48,104 [INFO] Epoch 19/100 | Train Loss: 0.1007 | Train Acc: 96.00% | Test Acc: 91.80% | Top-3 Acc: 0.00% | LR: 0.000922
+2025-05-07 06:23:04,803 [INFO] Epoch 20/100 | Train Loss: 0.0807 | Train Acc: 97.10% | Test Acc: 90.80% | Top-3 Acc: 0.00% | LR: 0.000914
+2025-05-07 06:23:21,892 [INFO] Epoch 21/100 | Train Loss: 0.0850 | Train Acc: 96.60% | Test Acc: 92.60% | Top-3 Acc: 0.00% | LR: 0.000905
+2025-05-07 06:23:38,523 [INFO] Epoch 22/100 | Train Loss: 0.0827 | Train Acc: 97.15% | Test Acc: 91.80% | Top-3 Acc: 0.00% | LR: 0.000895
+2025-05-07 06:23:55,139 [INFO] Epoch 23/100 | Train Loss: 0.0635 | Train Acc: 97.35% | Test Acc: 91.60% | Top-3 Acc: 0.00% | LR: 0.000885
+2025-05-07 06:24:11,904 [INFO] Epoch 24/100 | Train Loss: 0.0891 | Train Acc: 96.70% | Test Acc: 88.80% | Top-3 Acc: 0.00% | LR: 0.000875
+2025-05-07 06:24:28,517 [INFO] Epoch 25/100 | Train Loss: 0.0526 | Train Acc: 98.25% | Test Acc: 89.80% | Top-3 Acc: 0.00% | LR: 0.000864
+2025-05-07 06:24:45,560 [INFO] Epoch 26/100 | Train Loss: 0.0435 | Train Acc: 98.45% | Test Acc: 92.80% | Top-3 Acc: 0.00% | LR: 0.000854
+2025-05-07 06:25:02,242 [INFO] Epoch 27/100 | Train Loss: 0.0551 | Train Acc: 98.15% | Test Acc: 90.80% | Top-3 Acc: 0.00% | LR: 0.000842
+2025-05-07 06:25:18,899 [INFO] Epoch 28/100 | Train Loss: 0.0661 | Train Acc: 97.60% | Test Acc: 91.20% | Top-3 Acc: 0.00% | LR: 0.000831
+2025-05-07 06:25:35,909 [INFO] Epoch 29/100 | Train Loss: 0.0485 | Train Acc: 98.20% | Test Acc: 94.60% | Top-3 Acc: 0.00% | LR: 0.000819
+2025-05-07 06:25:52,538 [INFO] Epoch 30/100 | Train Loss: 0.0439 | Train Acc: 98.20% | Test Acc: 91.80% | Top-3 Acc: 0.00% | LR: 0.000806
+2025-05-07 06:26:09,247 [INFO] Epoch 31/100 | Train Loss: 0.0459 | Train Acc: 98.40% | Test Acc: 93.20% | Top-3 Acc: 0.00% | LR: 0.000794
+2025-05-07 06:26:25,965 [INFO] Epoch 32/100 | Train Loss: 0.0476 | Train Acc: 98.30% | Test Acc: 91.40% | Top-3 Acc: 0.00% | LR: 0.000781
+2025-05-07 06:26:42,609 [INFO] Epoch 33/100 | Train Loss: 0.0541 | Train Acc: 97.90% | Test Acc: 91.20% | Top-3 Acc: 0.00% | LR: 0.000768
+2025-05-07 06:26:59,359 [INFO] Epoch 34/100 | Train Loss: 0.0419 | Train Acc: 98.45% | Test Acc: 92.20% | Top-3 Acc: 0.00% | LR: 0.000755
+2025-05-07 06:27:16,331 [INFO] Epoch 35/100 | Train Loss: 0.0391 | Train Acc: 98.70% | Test Acc: 92.60% | Top-3 Acc: 0.00% | LR: 0.000741
+2025-05-07 06:27:33,445 [INFO] Epoch 36/100 | Train Loss: 0.0366 | Train Acc: 98.45% | Test Acc: 92.20% | Top-3 Acc: 0.00% | LR: 0.000727
+2025-05-07 06:27:50,437 [INFO] Epoch 37/100 | Train Loss: 0.0208 | Train Acc: 99.25% | Test Acc: 94.00% | Top-3 Acc: 0.00% | LR: 0.000713
+2025-05-07 06:28:07,361 [INFO] Epoch 38/100 | Train Loss: 0.0181 | Train Acc: 99.45% | Test Acc: 92.60% | Top-3 Acc: 0.00% | LR: 0.000699
+2025-05-07 06:28:23,995 [INFO] Epoch 39/100 | Train Loss: 0.0152 | Train Acc: 99.45% | Test Acc: 92.60% | Top-3 Acc: 0.00% | LR: 0.000684
+2025-05-07 06:28:40,783 [INFO] Epoch 40/100 | Train Loss: 0.0201 | Train Acc: 99.45% | Test Acc: 93.60% | Top-3 Acc: 0.00% | LR: 0.000669
+2025-05-07 06:28:57,450 [INFO] Epoch 41/100 | Train Loss: 0.0189 | Train Acc: 99.45% | Test Acc: 92.60% | Top-3 Acc: 0.00% | LR: 0.000655
+2025-05-07 06:29:14,157 [INFO] Epoch 42/100 | Train Loss: 0.0225 | Train Acc: 99.45% | Test Acc: 92.40% | Top-3 Acc: 0.00% | LR: 0.000639
+2025-05-07 06:29:30,866 [INFO] Epoch 43/100 | Train Loss: 0.0254 | Train Acc: 99.10% | Test Acc: 90.40% | Top-3 Acc: 0.00% | LR: 0.000624
+2025-05-07 06:29:47,487 [INFO] Early stopping at epoch 44
+2025-05-07 06:29:47,507 [INFO] 
+=== Generating Final Report ===
+2025-05-07 06:29:53,088 [INFO] 
+=== Training Completed ===
+2025-05-07 06:29:53,089 [INFO] {
+  "task_type": "binary",
+  "classes": [
+    1,
+    8
+  ],
+  "class_names": [
+    "automobile",
+    "ship"
+  ],
+  "train_samples": 2000,
+  "test_samples": 500,
+  "best_accuracy": 94.6,
+  "best_top3": 0,
+  "best_top5": 0,
+  "total_training_time": 737.125518321991,
+  "avg_inference_time": 2888.22603225708,
+  "resource_usage": {
+    "cpu": 24.47386363636364,
+    "gpu": 98.86363636363636,
+    "ram": 81.56732954545454
+  }
+}

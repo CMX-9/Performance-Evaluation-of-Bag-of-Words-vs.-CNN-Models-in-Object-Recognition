@@ -1,0 +1,26 @@
+2025-05-04 20:42:51,074 [INFO] 
+=== Running Learning Rate Experiment ===
+2025-05-04 20:44:10,589 [INFO] 
+=== Running Weight Decay Experiment ===
+2025-05-04 20:45:37,598 [INFO] 
+Experiment completed. Generated files:
+2025-05-04 20:45:37,599 [INFO] - lr_sensitivity.png        : Learning rate sensitivity
+2025-05-04 20:45:37,600 [INFO] - wd_sensitivity.png        : Weight decay sensitivity
+2025-05-04 20:45:37,601 [INFO] - loss_curves_lr.png        : Learning rate loss curves
+2025-05-04 20:45:37,601 [INFO] - loss_curves_wd.png        : Weight decay loss curves
+2025-05-04 20:45:37,601 [INFO] - training_time_analysis.png: Training time comparison
+2025-05-04 20:45:37,602 [INFO] - final_confusion_matrix.png: Final confusion matrix
+2025-05-04 20:45:37,604 [INFO] - experiment_results.csv    : Complete results data
+2025-05-04 20:47:42,066 [INFO] 
+=== Running Learning Rate Experiment ===
+2025-05-04 21:34:44,138 [INFO] 
+=== Running Weight Decay Experiment ===
+2025-05-04 21:46:44,442 [INFO] 
+Experiment completed. Generated files:
+2025-05-04 21:46:44,443 [INFO] - lr_sensitivity.png        : Learning rate sensitivity
+2025-05-04 21:46:44,443 [INFO] - wd_sensitivity.png        : Weight decay sensitivity
+2025-05-04 21:46:44,444 [INFO] - loss_curves_lr.png        : Learning rate loss curves
+2025-05-04 21:46:44,444 [INFO] - loss_curves_wd.png        : Weight decay loss curves
+2025-05-04 21:46:44,444 [INFO] - training_time_analysis.png: Training time comparison
+2025-05-04 21:46:44,444 [INFO] - final_confusion_matrix.png: Final confusion matrix
+2025-05-04 21:46:44,444 [INFO] - experiment_results.csv    : Complete results data

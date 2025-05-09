@@ -1,0 +1,44 @@
+2025-05-05 18:40:07,453 [INFO] GPU: NVIDIA GeForce RTX 4070 Laptop GPU
+2025-05-05 18:40:12,944 [INFO] 
+=== Training Original Model ===
+2025-05-05 18:43:30,505 [ERROR] Execution failed: Expected state_dict to be dict-like, got <class 'NoneType'>.
+2025-05-05 18:51:23,307 [INFO] GPU: NVIDIA GeForce RTX 4070 Laptop GPU
+2025-05-05 18:51:28,062 [INFO] 
+=== Training Original Model ===
+2025-05-05 18:53:38,240 [INFO] 
+=== Training Improved Model ===
+2025-05-05 18:54:19,771 [INFO] 
+=== Top-K Accuracy Comparison ===
+2025-05-05 18:54:19,772 [INFO] Top-1 Accuracy:
+2025-05-05 18:54:19,773 [INFO]   Original: 100.00%
+2025-05-05 18:54:19,773 [INFO]   Improved: 40.20%
+2025-05-05 18:54:19,774 [INFO] Top-3 Accuracy:
+2025-05-05 18:54:19,775 [INFO]   Original: 100.00%
+2025-05-05 18:54:19,775 [INFO]   Improved: 100.00%
+2025-05-05 18:54:19,775 [INFO] Top-5 Accuracy:
+2025-05-05 18:54:19,775 [INFO]   Original: 100.00%
+2025-05-05 18:54:19,776 [INFO]   Improved: 100.00%
+2025-05-05 18:54:19,776 [INFO] 
+=== Final Results ===
+2025-05-05 18:54:19,776 [INFO] Original Model Test Accuracy: 24.90%
+2025-05-05 18:54:19,777 [INFO] Improved Model Test Accuracy: 9.80%
+2025-05-05 19:04:54,748 [INFO] GPU: NVIDIA GeForce RTX 4070 Laptop GPU
+2025-05-05 19:04:59,011 [INFO] 
+=== Training Original Model ===
+2025-05-05 19:08:47,588 [INFO] 
+=== Training Improved Model ===
+2025-05-05 19:13:42,335 [INFO] 
+=== Top-K Accuracy Comparison ===
+2025-05-05 19:13:42,335 [INFO] Top-1 Accuracy:
+2025-05-05 19:13:42,337 [INFO]   Original: 100.00%
+2025-05-05 19:13:42,337 [INFO]   Improved: 100.00%
+2025-05-05 19:13:42,337 [INFO] Top-3 Accuracy:
+2025-05-05 19:13:42,338 [INFO]   Original: 100.00%
+2025-05-05 19:13:42,338 [INFO]   Improved: 100.00%
+2025-05-05 19:13:42,340 [INFO] Top-5 Accuracy:
+2025-05-05 19:13:42,341 [INFO]   Original: 100.00%
+2025-05-05 19:13:42,342 [INFO]   Improved: 100.00%
+2025-05-05 19:13:42,342 [INFO] 
+=== Final Results ===
+2025-05-05 19:13:42,343 [INFO] Original Model Test Accuracy: 55.40%
+2025-05-05 19:13:42,344 [INFO] Improved Model Test Accuracy: 60.40%

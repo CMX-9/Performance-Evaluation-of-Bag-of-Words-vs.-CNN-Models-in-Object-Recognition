@@ -1,0 +1,6 @@
+2025-05-06 04:53:56,931 [INFO] GPU: NVIDIA GeForce RTX 4070 Laptop GPU
+2025-05-06 04:53:56,931 [INFO] 
+=== Training with Full Dataset ===
+2025-05-06 12:04:59,855 [INFO] 
+=== Final Results ===
+2025-05-06 12:04:59,855 [INFO] Test Accuracy: 92.25% | Top-3: 100.00%

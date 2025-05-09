@@ -1,0 +1,13 @@
+{
+  "best_k": 500,
+  "best_accuracy": 0.862,
+  "best_top3": 1.0,
+  "best_top5": 1.0,
+  "avg_cpu_usage": 21.159999999999997,
+  "max_cpu_usage": 22.759999999999998,
+  "avg_gpu_usage": 0.0,
+  "max_gpu_usage": 0.0,
+  "avg_ram_usage": 44.54,
+  "total_time": 195.7035677433014,
+  "avg_inference_time": 415.12648582458496
+}

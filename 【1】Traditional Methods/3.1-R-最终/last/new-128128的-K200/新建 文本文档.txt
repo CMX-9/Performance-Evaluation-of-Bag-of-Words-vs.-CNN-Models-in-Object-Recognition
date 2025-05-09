@@ -1,0 +1,112 @@
+
+(AMR_assignment_4) D:\cognitive-cwk>python test2.py
+📄 Logging started: logs/fixed_k200_exp_20250503_235435.log
+
+🚀 Starting experiment: SampleSize=500, FixedK=200
+
+🔍 Evaluating R = 0.010...
+✅ R=0.010 | Accuracy=0.7780 | AvgFeatures=90.8
+
+🔍 Evaluating R = 0.020...
+✅ R=0.020 | Accuracy=0.7900 | AvgFeatures=66.2
+
+🔍 Evaluating R = 0.030...
+✅ R=0.030 | Accuracy=0.7540 | AvgFeatures=52.9
+
+🔍 Evaluating R = 0.040...
+✅ R=0.040 | Accuracy=0.7640 | AvgFeatures=44.4
+
+🔍 Evaluating R = 0.050...
+✅ R=0.050 | Accuracy=0.7540 | AvgFeatures=38.4
+
+🔍 Evaluating R = 0.060...
+✅ R=0.060 | Accuracy=0.7340 | AvgFeatures=33.9
+
+🔍 Evaluating R = 0.080...
+✅ R=0.080 | Accuracy=0.7080 | AvgFeatures=27.5
+
+🔍 Evaluating R = 0.100...
+✅ R=0.100 | Accuracy=0.7600 | AvgFeatures=23.1
+
+🚀 Starting experiment: SampleSize=1000, FixedK=200
+
+🔍 Evaluating R = 0.010...
+✅ R=0.010 | Accuracy=0.8400 | AvgFeatures=89.6
+
+🔍 Evaluating R = 0.020...
+✅ R=0.020 | Accuracy=0.8040 | AvgFeatures=65.1
+
+🔍 Evaluating R = 0.030...
+✅ R=0.030 | Accuracy=0.7860 | AvgFeatures=52.1
+
+🔍 Evaluating R = 0.040...
+✅ R=0.040 | Accuracy=0.8040 | AvgFeatures=43.9
+
+🔍 Evaluating R = 0.050...
+✅ R=0.050 | Accuracy=0.8100 | AvgFeatures=37.9
+
+🔍 Evaluating R = 0.060...
+✅ R=0.060 | Accuracy=0.8040 | AvgFeatures=33.5
+
+🔍 Evaluating R = 0.080...
+✅ R=0.080 | Accuracy=0.7680 | AvgFeatures=27.2
+
+🔍 Evaluating R = 0.100...
+✅ R=0.100 | Accuracy=0.7900 | AvgFeatures=22.9
+
+🚀 Starting experiment: SampleSize=1500, FixedK=200
+
+🔍 Evaluating R = 0.010...
+✅ R=0.010 | Accuracy=0.8640 | AvgFeatures=90.2
+
+🔍 Evaluating R = 0.020...
+✅ R=0.020 | Accuracy=0.8520 | AvgFeatures=65.7
+
+🔍 Evaluating R = 0.030...
+✅ R=0.030 | Accuracy=0.8300 | AvgFeatures=52.7
+
+🔍 Evaluating R = 0.040...
+✅ R=0.040 | Accuracy=0.8160 | AvgFeatures=44.3
+
+🔍 Evaluating R = 0.050...
+✅ R=0.050 | Accuracy=0.8360 | AvgFeatures=38.4
+
+🔍 Evaluating R = 0.060...
+✅ R=0.060 | Accuracy=0.8100 | AvgFeatures=33.9
+
+🔍 Evaluating R = 0.080...
+✅ R=0.080 | Accuracy=0.7880 | AvgFeatures=27.5
+
+🔍 Evaluating R = 0.100...
+✅ R=0.100 | Accuracy=0.7960 | AvgFeatures=23.1
+
+🚀 Starting experiment: SampleSize=2000, FixedK=200
+
+🔍 Evaluating R = 0.010...
+✅ R=0.010 | Accuracy=0.8460 | AvgFeatures=89.5
+
+🔍 Evaluating R = 0.020...
+✅ R=0.020 | Accuracy=0.8360 | AvgFeatures=65.4
+
+🔍 Evaluating R = 0.030...
+✅ R=0.030 | Accuracy=0.8400 | AvgFeatures=52.6
+
+🔍 Evaluating R = 0.040...
+✅ R=0.040 | Accuracy=0.8140 | AvgFeatures=44.1
+
+🔍 Evaluating R = 0.050...
+✅ R=0.050 | Accuracy=0.8420 | AvgFeatures=38.2
+
+🔍 Evaluating R = 0.060...
+✅ R=0.060 | Accuracy=0.8280 | AvgFeatures=33.7
+
+🔍 Evaluating R = 0.080...
+✅ R=0.080 | Accuracy=0.8220 | AvgFeatures=27.3
+
+🔍 Evaluating R = 0.100...
+✅ R=0.100 | Accuracy=0.7980 | AvgFeatures=22.9
+
+📝 All outputs saved to: logs/fixed_k200_exp_20250503_235435.log
+
+
+

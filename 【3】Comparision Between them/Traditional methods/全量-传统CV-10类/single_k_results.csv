@@ -1,0 +1,2 @@
+K,train_time,test_time,train_acc,test_acc,top1_acc,top3_acc,top5_acc,cpu_usage,gpu_usage,ram_usage,inference_time,total_time
+500,90.0,25.0,0.745,0.723,0.723,0.835,0.912,48.7,82.9,55.1,18.2,115.0

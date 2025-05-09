@@ -1,0 +1,116 @@
+2025-05-06 16:16:30,280 [INFO] ===== 系统状态检查 =====
+2025-05-06 16:16:30,284 [INFO] PyTorch版本: 2.7.0+cu118
+2025-05-06 16:16:30,284 [INFO] CUDA可用: True
+2025-05-06 16:16:30,288 [INFO] 当前GPU: NVIDIA GeForce RTX 4070 Laptop GPU
+2025-05-06 16:16:30,288 [INFO] 显存总量: 8.0GB
+2025-05-06 16:17:42,470 [INFO] 
+=== 开始阶段: Baseline ===
+2025-05-06 16:20:37,718 [INFO] Epoch 1/20 | Train Acc: 29.89% | Test Acc: {'test': 35.9} | Time: 173.5s
+2025-05-06 16:23:32,465 [INFO] Epoch 2/20 | Train Acc: 42.66% | Test Acc: {'test': 40.6} | Time: 174.7s
+2025-05-06 16:26:28,160 [INFO] Epoch 3/20 | Train Acc: 51.67% | Test Acc: {'test': 44.97} | Time: 175.7s
+2025-05-06 16:29:15,688 [INFO] Epoch 4/20 | Train Acc: 57.84% | Test Acc: {'test': 57.45} | Time: 167.5s
+2025-05-06 16:32:04,471 [INFO] Epoch 5/20 | Train Acc: 61.95% | Test Acc: {'test': 61.91} | Time: 168.8s
+2025-05-06 16:34:52,611 [INFO] Epoch 6/20 | Train Acc: 64.94% | Test Acc: {'test': 59.86} | Time: 168.1s
+2025-05-06 16:37:39,575 [INFO] Epoch 7/20 | Train Acc: 68.44% | Test Acc: {'test': 61.28} | Time: 167.0s
+2025-05-06 16:40:27,427 [INFO] Epoch 8/20 | Train Acc: 70.31% | Test Acc: {'test': 66.18} | Time: 167.9s
+2025-05-06 16:43:16,050 [INFO] Epoch 9/20 | Train Acc: 72.42% | Test Acc: {'test': 63.15} | Time: 168.6s
+2025-05-06 16:46:04,609 [INFO] Epoch 10/20 | Train Acc: 74.46% | Test Acc: {'test': 61.57} | Time: 168.5s
+2025-05-06 16:48:51,370 [INFO] Epoch 11/20 | Train Acc: 76.63% | Test Acc: {'test': 70.75} | Time: 166.8s
+2025-05-06 16:51:40,537 [INFO] Epoch 12/20 | Train Acc: 77.94% | Test Acc: {'test': 67.59} | Time: 169.2s
+2025-05-06 16:54:27,741 [INFO] Epoch 13/20 | Train Acc: 79.56% | Test Acc: {'test': 70.25} | Time: 167.2s
+2025-05-06 16:57:12,466 [INFO] Epoch 14/20 | Train Acc: 80.42% | Test Acc: {'test': 71.3} | Time: 164.7s
+2025-05-06 16:59:53,459 [INFO] Epoch 15/20 | Train Acc: 81.47% | Test Acc: {'test': 77.51} | Time: 161.0s
+2025-05-06 17:02:19,866 [INFO] Epoch 16/20 | Train Acc: 81.94% | Test Acc: {'test': 78.35} | Time: 146.4s
+2025-05-06 17:04:58,548 [INFO] Epoch 17/20 | Train Acc: 82.84% | Test Acc: {'test': 71.64} | Time: 158.7s
+2025-05-06 17:07:35,400 [INFO] Epoch 18/20 | Train Acc: 83.80% | Test Acc: {'test': 74.5} | Time: 156.8s
+2025-05-06 17:10:03,685 [INFO] Epoch 19/20 | Train Acc: 83.90% | Test Acc: {'test': 66.99} | Time: 148.3s
+2025-05-06 17:12:17,239 [INFO] Epoch 20/20 | Train Acc: 84.30% | Test Acc: {'test': 75.22} | Time: 133.6s
+2025-05-06 17:12:17,944 [INFO] 
+=== 开始阶段: +ResBlocks ===
+2025-05-06 17:14:37,386 [INFO] Epoch 1/20 | Train Acc: 29.25% | Test Acc: {'test': 35.18} | Time: 139.4s
+2025-05-06 17:17:07,976 [INFO] Epoch 2/20 | Train Acc: 43.05% | Test Acc: {'test': 47.56} | Time: 150.6s
+2025-05-06 17:19:40,937 [INFO] Epoch 3/20 | Train Acc: 53.25% | Test Acc: {'test': 49.67} | Time: 153.0s
+2025-05-06 17:22:13,460 [INFO] Epoch 4/20 | Train Acc: 59.98% | Test Acc: {'test': 53.34} | Time: 152.5s
+2025-05-06 17:24:45,495 [INFO] Epoch 5/20 | Train Acc: 64.99% | Test Acc: {'test': 60.59} | Time: 152.0s
+2025-05-06 17:27:18,295 [INFO] Epoch 6/20 | Train Acc: 68.11% | Test Acc: {'test': 61.86} | Time: 152.8s
+2025-05-06 17:29:43,509 [INFO] Epoch 7/20 | Train Acc: 70.53% | Test Acc: {'test': 68.95} | Time: 145.2s
+2025-05-06 17:32:11,335 [INFO] Epoch 8/20 | Train Acc: 73.81% | Test Acc: {'test': 66.54} | Time: 147.8s
+2025-05-06 17:34:32,895 [INFO] Epoch 9/20 | Train Acc: 76.53% | Test Acc: {'test': 68.15} | Time: 141.6s
+2025-05-06 17:36:58,104 [INFO] Epoch 10/20 | Train Acc: 78.24% | Test Acc: {'test': 75.74} | Time: 145.2s
+2025-05-06 17:39:19,376 [INFO] Epoch 11/20 | Train Acc: 79.82% | Test Acc: {'test': 73.81} | Time: 141.3s
+2025-05-06 17:41:48,614 [INFO] Epoch 12/20 | Train Acc: 80.96% | Test Acc: {'test': 64.18} | Time: 149.2s
+2025-05-06 17:44:18,764 [INFO] Epoch 13/20 | Train Acc: 81.75% | Test Acc: {'test': 75.63} | Time: 150.1s
+2025-05-06 17:46:44,164 [INFO] Epoch 14/20 | Train Acc: 82.61% | Test Acc: {'test': 74.22} | Time: 145.4s
+2025-05-06 17:49:10,206 [INFO] Epoch 15/20 | Train Acc: 83.31% | Test Acc: {'test': 77.57} | Time: 146.0s
+2025-05-06 17:51:41,835 [INFO] Epoch 16/20 | Train Acc: 83.47% | Test Acc: {'test': 80.7} | Time: 151.6s
+2025-05-06 17:54:05,976 [INFO] Epoch 17/20 | Train Acc: 84.41% | Test Acc: {'test': 75.8} | Time: 144.1s
+2025-05-06 17:56:21,856 [INFO] Epoch 18/20 | Train Acc: 84.83% | Test Acc: {'test': 77.87} | Time: 135.9s
+2025-05-06 17:58:53,902 [INFO] Epoch 19/20 | Train Acc: 85.02% | Test Acc: {'test': 74.57} | Time: 152.0s
+2025-05-06 18:01:39,004 [INFO] Epoch 20/20 | Train Acc: 86.23% | Test Acc: {'test': 77.12} | Time: 165.1s
+2025-05-06 18:01:40,249 [INFO] 
+=== 开始阶段: +Cutout ===
+2025-05-06 18:05:34,329 [INFO] Epoch 1/20 | Train Acc: 27.61% | Test Acc: {'test': 33.52} | Time: 152.3s
+2025-05-06 18:08:34,896 [INFO] Epoch 2/20 | Train Acc: 37.94% | Test Acc: {'test': 43.67} | Time: 180.6s
+2025-05-06 18:11:06,630 [INFO] Epoch 3/20 | Train Acc: 45.38% | Test Acc: {'test': 44.73} | Time: 151.7s
+2025-05-06 18:13:39,128 [INFO] Epoch 4/20 | Train Acc: 52.70% | Test Acc: {'test': 54.45} | Time: 152.5s
+2025-05-06 18:16:06,716 [INFO] Epoch 5/20 | Train Acc: 55.30% | Test Acc: {'test': 57.76} | Time: 147.6s
+2025-05-06 18:18:23,860 [INFO] Epoch 6/20 | Train Acc: 59.52% | Test Acc: {'test': 56.08} | Time: 137.1s
+2025-05-06 18:20:42,276 [INFO] Epoch 7/20 | Train Acc: 61.70% | Test Acc: {'test': 60.15} | Time: 138.4s
+2025-05-06 18:23:03,099 [INFO] Epoch 8/20 | Train Acc: 64.72% | Test Acc: {'test': 62.17} | Time: 140.8s
+2025-05-06 18:25:18,465 [INFO] Epoch 9/20 | Train Acc: 66.98% | Test Acc: {'test': 64.73} | Time: 135.4s
+2025-05-06 18:27:42,656 [INFO] Epoch 10/20 | Train Acc: 68.70% | Test Acc: {'test': 70.22} | Time: 144.2s
+2025-05-06 18:30:04,899 [INFO] Epoch 11/20 | Train Acc: 70.11% | Test Acc: {'test': 67.72} | Time: 142.2s
+2025-05-06 18:32:28,689 [INFO] Epoch 12/20 | Train Acc: 71.44% | Test Acc: {'test': 68.92} | Time: 143.8s
+2025-05-06 18:34:59,128 [INFO] Epoch 13/20 | Train Acc: 72.44% | Test Acc: {'test': 65.38} | Time: 150.4s
+2025-05-06 18:37:23,970 [INFO] Epoch 14/20 | Train Acc: 74.20% | Test Acc: {'test': 69.51} | Time: 144.8s
+2025-05-06 18:39:47,414 [INFO] Epoch 15/20 | Train Acc: 74.97% | Test Acc: {'test': 59.52} | Time: 143.4s
+2025-05-06 18:42:13,495 [INFO] Epoch 16/20 | Train Acc: 75.61% | Test Acc: {'test': 72.13} | Time: 146.1s
+2025-05-06 18:44:53,143 [INFO] Epoch 17/20 | Train Acc: 76.20% | Test Acc: {'test': 70.35} | Time: 159.6s
+2025-05-06 18:47:28,846 [INFO] Epoch 18/20 | Train Acc: 76.58% | Test Acc: {'test': 78.8} | Time: 155.7s
+2025-05-06 18:49:56,924 [INFO] Epoch 19/20 | Train Acc: 76.92% | Test Acc: {'test': 72.58} | Time: 148.1s
+2025-05-06 18:52:27,498 [INFO] Epoch 20/20 | Train Acc: 77.37% | Test Acc: {'test': 63.82} | Time: 150.6s
+2025-05-06 18:52:28,492 [INFO] 
+=== 开始阶段: +OneCycle ===
+2025-05-06 18:56:20,108 [INFO] Epoch 1/20 | Train Acc: 30.37% | Test Acc: {'test': 33.01} | Time: 154.5s
+2025-05-06 18:58:52,674 [INFO] Epoch 2/20 | Train Acc: 41.47% | Test Acc: {'test': 41.23} | Time: 152.6s
+2025-05-06 19:01:16,286 [INFO] Epoch 3/20 | Train Acc: 47.49% | Test Acc: {'test': 49.52} | Time: 143.6s
+2025-05-06 19:03:46,612 [INFO] Epoch 4/20 | Train Acc: 54.04% | Test Acc: {'test': 53.17} | Time: 150.3s
+2025-05-06 19:06:11,794 [INFO] Epoch 5/20 | Train Acc: 58.52% | Test Acc: {'test': 61.05} | Time: 145.2s
+2025-05-06 19:08:43,141 [INFO] Epoch 6/20 | Train Acc: 62.56% | Test Acc: {'test': 39.66} | Time: 151.3s
+2025-05-06 19:11:09,814 [INFO] Epoch 7/20 | Train Acc: 65.69% | Test Acc: {'test': 66.27} | Time: 146.7s
+2025-05-06 19:13:36,990 [INFO] Epoch 8/20 | Train Acc: 68.72% | Test Acc: {'test': 64.32} | Time: 147.2s
+2025-05-06 19:16:06,318 [INFO] Epoch 9/20 | Train Acc: 70.59% | Test Acc: {'test': 67.03} | Time: 149.3s
+2025-05-06 19:18:33,381 [INFO] Epoch 10/20 | Train Acc: 72.22% | Test Acc: {'test': 67.94} | Time: 147.1s
+2025-05-06 19:20:57,171 [INFO] Epoch 11/20 | Train Acc: 74.45% | Test Acc: {'test': 66.19} | Time: 143.8s
+2025-05-06 19:23:32,503 [INFO] Epoch 12/20 | Train Acc: 75.56% | Test Acc: {'test': 77.0} | Time: 155.3s
+2025-05-06 19:25:57,691 [INFO] Epoch 13/20 | Train Acc: 77.22% | Test Acc: {'test': 78.18} | Time: 145.2s
+2025-05-06 19:28:18,113 [INFO] Epoch 14/20 | Train Acc: 78.39% | Test Acc: {'test': 76.3} | Time: 140.4s
+2025-05-06 19:30:50,827 [INFO] Epoch 15/20 | Train Acc: 79.75% | Test Acc: {'test': 78.69} | Time: 152.7s
+2025-05-06 19:33:13,581 [INFO] Epoch 16/20 | Train Acc: 81.41% | Test Acc: {'test': 83.13} | Time: 142.8s
+2025-05-06 19:35:35,975 [INFO] Epoch 17/20 | Train Acc: 82.98% | Test Acc: {'test': 84.67} | Time: 142.4s
+2025-05-06 19:38:02,286 [INFO] Epoch 18/20 | Train Acc: 84.91% | Test Acc: {'test': 85.1} | Time: 146.3s
+2025-05-06 19:40:28,093 [INFO] Epoch 19/20 | Train Acc: 86.73% | Test Acc: {'test': 86.42} | Time: 145.8s
+2025-05-06 19:43:01,007 [INFO] Epoch 20/20 | Train Acc: 87.56% | Test Acc: {'test': 86.5} | Time: 152.9s
+2025-05-06 19:43:02,077 [INFO] 
+=== 开始阶段: Final ===
+2025-05-06 19:46:34,616 [INFO] Epoch 1/20 | Train Acc: 39.38% | Test Acc: {'test': 47.13, 'full': 47.13} | Time: 207.9s
+2025-05-06 19:49:56,478 [INFO] Epoch 2/20 | Train Acc: 54.97% | Test Acc: {'test': 60.3, 'full': 60.3} | Time: 201.9s
+2025-05-06 19:53:20,358 [INFO] Epoch 3/20 | Train Acc: 62.33% | Test Acc: {'test': 66.7, 'full': 66.7} | Time: 203.9s
+2025-05-06 19:56:49,229 [INFO] Epoch 4/20 | Train Acc: 68.66% | Test Acc: {'test': 62.33, 'full': 62.33} | Time: 208.9s
+2025-05-06 20:00:16,769 [INFO] Epoch 5/20 | Train Acc: 72.18% | Test Acc: {'test': 74.58, 'full': 74.58} | Time: 207.5s
+2025-05-06 20:03:42,180 [INFO] Epoch 6/20 | Train Acc: 75.01% | Test Acc: {'test': 76.74, 'full': 76.74} | Time: 205.4s
+2025-05-06 20:07:07,805 [INFO] Epoch 7/20 | Train Acc: 76.66% | Test Acc: {'test': 78.33, 'full': 78.33} | Time: 205.6s
+2025-05-06 20:10:33,426 [INFO] Epoch 8/20 | Train Acc: 78.53% | Test Acc: {'test': 77.84, 'full': 77.84} | Time: 205.6s
+2025-05-06 20:14:00,371 [INFO] Epoch 9/20 | Train Acc: 79.53% | Test Acc: {'test': 80.86, 'full': 80.86} | Time: 206.9s
+2025-05-06 20:17:26,688 [INFO] Epoch 10/20 | Train Acc: 80.33% | Test Acc: {'test': 81.6, 'full': 81.6} | Time: 206.3s
+2025-05-06 20:20:54,007 [INFO] Epoch 11/20 | Train Acc: 81.40% | Test Acc: {'test': 82.37, 'full': 82.37} | Time: 207.3s
+2025-05-06 20:24:19,885 [INFO] Epoch 12/20 | Train Acc: 81.98% | Test Acc: {'test': 79.28, 'full': 79.28} | Time: 205.9s
+2025-05-06 20:27:46,342 [INFO] Epoch 13/20 | Train Acc: 83.04% | Test Acc: {'test': 83.21, 'full': 83.21} | Time: 206.5s
+2025-05-06 20:31:17,359 [INFO] Epoch 14/20 | Train Acc: 84.31% | Test Acc: {'test': 83.15, 'full': 83.15} | Time: 211.0s
+2025-05-06 20:34:44,151 [INFO] Epoch 15/20 | Train Acc: 85.18% | Test Acc: {'test': 87.47, 'full': 87.47} | Time: 206.8s
+2025-05-06 20:38:21,920 [INFO] Epoch 16/20 | Train Acc: 86.41% | Test Acc: {'test': 88.64, 'full': 88.64} | Time: 217.8s
+2025-05-06 20:42:14,240 [INFO] Epoch 17/20 | Train Acc: 88.23% | Test Acc: {'test': 89.92, 'full': 89.92} | Time: 232.3s
+2025-05-06 20:46:18,773 [INFO] Epoch 18/20 | Train Acc: 89.80% | Test Acc: {'test': 91.52, 'full': 91.52} | Time: 244.5s
+2025-05-06 20:50:26,104 [INFO] Epoch 19/20 | Train Acc: 91.41% | Test Acc: {'test': 92.22, 'full': 92.22} | Time: 247.3s
+2025-05-06 20:54:27,845 [INFO] Epoch 20/20 | Train Acc: 92.27% | Test Acc: {'test': 92.48, 'full': 92.48} | Time: 241.7s
+2025-05-06 20:54:36,116 [INFO] 实验成功完成！

@@ -1,0 +1,10 @@
+2025-05-07 02:23:24 [INFO] ===== Analysis Started =====
+2025-05-07 02:23:31 [INFO] ===== Feature Extraction Started =====
+2025-05-07 02:33:48 [INFO] K=300 | Test Acc: 0.8600 | Top-3 Acc: 1.0000 | RAM Usage: 43.1%
+2025-05-07 02:35:32 [INFO] K=500 | Test Acc: 0.8620 | Top-3 Acc: 1.0000 | RAM Usage: 46.0%
+2025-05-07 02:35:34 [INFO] 
+===== Optimal Results =====
+2025-05-07 02:35:34 [INFO] Optimal K: 500
+2025-05-07 02:35:34 [INFO] Max Accuracy: 0.8620
+2025-05-07 02:35:34 [INFO] Corresponding Top-3: 1.0000
+2025-05-07 02:35:34 [INFO] Total execution time: 729.7 seconds

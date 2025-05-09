@@ -1,0 +1,13 @@
+2025-05-04 22:33:13,062 [INFO] 
+=== Running Learning Rate Experiment ===
+2025-05-05 00:13:50,230 [INFO] 
+=== Running Weight Decay Experiment ===
+2025-05-05 00:55:02,736 [INFO] 
+Experiment completed. Generated files:
+2025-05-05 00:55:02,739 [INFO] - lr_sensitivity.png        : Learning rate sensitivity
+2025-05-05 00:55:02,739 [INFO] - wd_sensitivity.png        : Weight decay sensitivity
+2025-05-05 00:55:02,740 [INFO] - loss_curves_lr.png        : Learning rate loss curves
+2025-05-05 00:55:02,740 [INFO] - loss_curves_wd.png        : Weight decay loss curves
+2025-05-05 00:55:02,741 [INFO] - training_time_analysis.png: Training time comparison
+2025-05-05 00:55:02,742 [INFO] - final_confusion_matrix.png: Final confusion matrix
+2025-05-05 00:55:02,743 [INFO] - experiment_results.csv    : Complete results data

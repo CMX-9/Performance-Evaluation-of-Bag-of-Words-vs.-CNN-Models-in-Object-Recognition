@@ -1,0 +1,23 @@
+{
+  "task_type": "binary",
+  "classes": [
+    1,
+    8
+  ],
+  "class_names": [
+    "automobile",
+    "ship"
+  ],
+  "train_samples": 2000,
+  "test_samples": 500,
+  "best_accuracy": 94.6,
+  "best_top3": 0,
+  "best_top5": 0,
+  "total_training_time": 737.125518321991,
+  "avg_inference_time": 2888.22603225708,
+  "resource_usage": {
+    "cpu": 24.47386363636364,
+    "gpu": 98.86363636363636,
+    "ram": 81.56732954545454
+  }
+}

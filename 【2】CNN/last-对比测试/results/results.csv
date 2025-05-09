@@ -1,0 +1,6 @@
+stage,epochs,sub_acc,full_acc
+Baseline,20,78.35,
++ResBlocks,20,80.7,
++Cutout,20,78.8,
++OneCycle,20,86.5,
+Final,20,92.48,92.48

@@ -1,0 +1,13 @@
+2025-05-05 07:54:47,183 [INFO] GPU: NVIDIA GeForce RTX 4070 Laptop GPU
+2025-05-05 07:54:47,183 [INFO] VRAM: 8.00 GB
+2025-05-05 07:55:36,318 [INFO] 
+===== Learning Rate Experiment =====
+2025-05-05 08:01:38,671 [INFO] 
+===== Weight Decay Experiment =====
+2025-05-05 08:07:14,429 [INFO] 
+===== Final Training =====
+2025-05-05 08:08:34,562 [INFO] 
+=== Experiment Complete ===
+2025-05-05 08:08:34,562 [INFO] Best LR: 0.1, Accuracy: 43.60%
+2025-05-05 08:08:34,562 [INFO] Best WD: 1e-05, Accuracy: 45.80%
+2025-05-05 08:08:34,562 [INFO] Final Model Accuracy: 43.20%

@@ -1,0 +1,4 @@
+2025-05-08 17:59:27,466 [INFO] GPU: NVIDIA GeForce RTX 4070 Laptop GPU
+2025-05-08 17:59:27,467 [INFO] 
+=== Training with 2-class Dataset ===
+2025-05-08 20:45:25,832 [INFO] Final Test Accuracy: 87.40%
